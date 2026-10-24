@@ -1,0 +1,11 @@
+.env
+storage/uploads/*
+!storage/uploads/.gitkeep
+!storage/uploads/pod/.gitkeep
+!storage/uploads/receipts/.gitkeep
+!storage/uploads/avatars/.gitkeep
+vendor/
+*.log
+.DS_Store
+Thumbs.db
+*.zip
